@@ -33,6 +33,6 @@ This project simulates and analyzes optimal power generation using MATLAB, showc
 - View the Simulation output in the command Window or graphs.
 
 ##  Author
-Varshini Palagiri
-Electrical Engineering Student (2025)  
-Sri Padmavati Mahila Visvavidyalayam
+- Varshini Palagiri
+- Electrical Engineering Student (2025)  
+- Sri Padmavati Mahila Visvavidyalayam
